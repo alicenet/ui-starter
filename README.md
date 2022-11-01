@@ -2,6 +2,14 @@
 
 Below you'll find tooling for code and commit hygiene related to Alicenet projects.
 
+# Command
+
+Here's the command to install all required packages. You will be prompted to answer some questions to configure ESLint to the purpose of your project.
+
+```
+npm i prettier --save-dev --exact && npm i @commitlint/cli @commitlint/config-conventional @commitlint/format lint-staged --save-dev && npx husky-init && npm init @eslint/config
+```
+
 # Formatting
 
 -   Prettier (https://prettier.io/)
