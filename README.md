@@ -1,6 +1,6 @@
 # UI Starter
 
-Below you'll find tooling for starting up a repo. We've included some examples of what we use through out Alicenet projects.
+Below you'll find tooling for code and commit hygiene related to Alicenet projects.
 
 # Formatting
 
